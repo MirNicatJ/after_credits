@@ -1,4 +1,4 @@
-package com.mirnijat.aftercredits
+package com.mirnijat.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
